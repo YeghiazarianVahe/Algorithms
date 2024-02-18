@@ -1,11 +1,10 @@
 /* ******************************
 
-//Selection Sort is a straightforward sorting algorithm with a time complexity of O(n^2)
-//for all cases (best, average, and worst) and a space complexity of O(1), making it
-//space-efficient but time-inefficient for large datasets. It works by repeatedly finding
-//the minimum element from the unsorted portion of the array and moving it to the
-//end of the sorted portion. Despite its simplicity, its quadratic time complexity
-//limits its practicality for sorting large arrays.
+ Selection Sort
+// -> Mechanism: Selects the smallest (or largest) element from the unsorted portion of the list and moves it to the end of the sorted portion.
+// -> Time Complexity: O(n^2) for all cases
+// -> Space Complexity: O(1)
+// -> Stable: No (but can be made stable with modifications)
 
 // Selection sort implemented by Vahe
 ****************************** */

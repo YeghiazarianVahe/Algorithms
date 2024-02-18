@@ -1,10 +1,10 @@
 /* ******************************
-
-//Bubble Sort is a straightforward but inefficient sorting algorithm with a best-case time
-//complexity of O(n) and both average and worst-case complexities of O(n^2). It works by
-//repeatedly swapping adjacent elements that are out of order, effectively
-//"bubbling" the highest or lowest elements to their correct positions in each pass.
-//Despite its simplicity, its quadratic time complexity makes it impractical for large datasets.
+ Bubble Sort
+// -> Mechanism: Repeatedly swaps adjacent elements if they are in the wrong order.
+// -> Best Case Time Complexity: O(n)
+// -> Average and Worst Case Time Complexity: O(n^2)
+// -> Space Complexity: O(1)
+// -> Stable: Yes
 
 // Bubble sort implemented by Vahe
 ****************************** */
