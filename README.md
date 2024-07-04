@@ -8,7 +8,6 @@ This repository is a collection of implementations of essential algorithms and d
 - [Algorithms](#algorithms)
 - [Data Structures](#data-structures)
 - [Languages](#languages)
-- [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -53,35 +52,11 @@ Understanding algorithms and data structures is fundamental to computer science 
 - **Graphs:**
     - Adjacency List
     - Adjacency Matrix
-- **Other:**
-    - Tries
-    - Disjoint Sets
-    - ... (Add more as you implement them)
 
 ## Languages
 
 - C++
 - Python
-
-## How to Use
-
-1. **Clone the repository:**
-   ```bash
-   git clone [invalid URL removed]
-   ```
-2. **Navigate to the desired algorithm/data structure folder:**
-   ```bash
-   cd Algorithms/sorting 
-   ```
-3. **Run the code examples:**
-   ```bash
-   # For C++ (example)
-   g++ -o bubble_sort bubble_sort.cpp
-   ./bubble_sort
-
-   # For Python (example)
-   python binary_search.py
-   ```
 
 ## Contributing
 
@@ -90,7 +65,7 @@ Contributions are welcome! If you'd like to add new implementations, improve exi
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal and educational purposes.
-```
+
 
 
 **Key Points:**
