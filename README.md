@@ -34,7 +34,6 @@ Understanding algorithms and data structures is fundamental to computer science 
 - **Other:**
     - Dynamic Programming
     - Greedy Algorithms
-    - ... (Add more as you implement them)
 
 ## Data Structures
 
