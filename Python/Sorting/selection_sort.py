@@ -6,5 +6,6 @@ def selection_sort(vector: List[int]) -> List[int]:
         min_idx: int = i
         for j in range(i + 1, len(vector)):
             if vector[min_idx] > vector[j]:
-                vector[min_idx], vector[j] = vector[j], vector[min_idx]
+                min_idx = j
+        vector[min_idx], vector[i] = vector[i], vector[min_idx]
     return vector
